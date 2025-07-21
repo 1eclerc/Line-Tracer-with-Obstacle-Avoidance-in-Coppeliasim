@@ -76,7 +76,7 @@ The robot should start moving autonomously, following the line and avoiding obst
 
 ## 📄 License
 
-This project is provided for educational and research purposes.
+This project is provided for research purposes.
 
 ## 👥 Contributors
 
