@@ -62,9 +62,11 @@ The robot should start moving autonomously, following the line and avoiding obst
 - Real-time motor speed graphs (Left & Right).
 - Optional live camera feed from `Vision_sensor`.
 
-## 📸 Preview
+## 📸 Simulation Snapshots
 
-> _Insert screenshots or gifs here showing the robot in action and the plots._
+<img width="561" height="302" alt="image" src="https://github.com/user-attachments/assets/e840355c-7655-4ad7-b8b1-28ea5781deb0" />
+
+<img width="562" height="301" alt="image" src="https://github.com/user-attachments/assets/89cdc009-6150-4af2-b59b-fd58c7625451" />
 
 ## 🧩 Notes
 
